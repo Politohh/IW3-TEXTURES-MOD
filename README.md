@@ -22,7 +22,7 @@
 
  ## Pictures 
  
-[[A VERY EARLY VIDEO OF THE ENHANCER + TEXTURES MOD, enhancer got updated but texturesd are the same]()](https://youtu.be/xTFGOoqy-uI)                            
+[![A VERY EARLY VIDEO OF THE ENHANCER + TEXTURES MOD, enhancer got updated but texturesd are the same]()](https://youtu.be/xTFGOoqy-uI)                            
                   
 ## Support
 
