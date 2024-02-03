@@ -6,7 +6,7 @@
 
 <h4 align="center">The Best Cod4 Texture Mod </a>!</h4>
 <div align="center">
-  <a href="https://github.com/Polito1/IW3-ENHANCER-MOD/releases""><img src="https://img.shields.io/github/downloads/Polito1/IW3-ENHANCER-MOD/total"></a>
+  <a href="https://github.com/Polito1/IW3-ENHANCER-MOD/releases""><img src="https://img.shields.io/github/downloads/Politohh/IW3-TEXTURES-MOD/total"></a>
   <a href="https://paypal.me/politoggs"><img src="https://img.shields.io/badge/Donate-Paypal-orange?style=flat-square"></a>
 </div>
 <p align="center">
