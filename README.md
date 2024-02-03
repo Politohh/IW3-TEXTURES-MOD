@@ -40,9 +40,7 @@
 2. Extract everything in your COD4/main folder.
 3. Done!
 
-
-- r_buf_skinnedCacheVb 24
-- r_buf_dynamicVertexBuffer 24
+U should use :
 - r_Drawdecals 1
 
 ## Credits
